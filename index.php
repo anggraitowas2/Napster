@@ -142,7 +142,20 @@ http://www.templatemo.com/tm-492-app-starter
                               </div>
                     </div>
                </div>
-
+		<div class="wow fadeInUp col-md-3 col-sm-6" data-wow-delay="0.4s">
+                    <div class="about-thumb">
+                         <img src="images/team-img1.jpg" class="img-responsive" alt="Team">
+                              <div class="about-overlay">
+                                   <h3>Andi Putra</h3>
+                                   <h4>CEO</h4>
+                                   <ul class="social-icon">
+                                        <li><a href="#" class="fa fa-facebook"></a></li>
+                                        <li><a href="#" class="fa fa-instagram"></a></li>
+                                        <li><a href="#" class="fa fa-twitter"></a></li>
+                                   </ul>
+                              </div>
+                    </div>
+               </div>
           </div>
      </div>
 </section>
