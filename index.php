@@ -117,7 +117,7 @@ http://www.templatemo.com/tm-492-app-starter
                     <div class="about-thumb">
                          <img src="images/team-img1.jpg" class="img-responsive" alt="Team">
                               <div class="about-overlay">
-                                   <h3>Fandy</h3>
+                                   <h3>Adilla Ihza Fandy</h3>
                                    <h4>CEO</h4>
                                    <ul class="social-icon">
                                         <li><a href="#" class="fa fa-facebook"></a></li>
@@ -132,8 +132,8 @@ http://www.templatemo.com/tm-492-app-starter
                     <div class="about-thumb">
                          <img src="images/team-img2.jpg" class="img-responsive" alt="Team">
                               <div class="about-overlay">
-                                   <h3>Designer </h3>
-                                   <h4>UX Specialist</h4>
+                                   <h3>Anggraito Waspada </h3>
+                                   <h4>Designer</h4>
                                    <ul class="social-icon">
                                         <li><a href="#" class="fa fa-pinterest"></a></li>
                                         <li><a href="#" class="fa fa-behance"></a></li>
