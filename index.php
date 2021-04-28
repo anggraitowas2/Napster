@@ -117,8 +117,8 @@ http://www.templatemo.com/tm-492-app-starter
                     <div class="about-thumb">
                          <img src="images/team-img1.jpg" class="img-responsive" alt="Team">
                               <div class="about-overlay">
-                                   <h3>Sandar Lynn</h3>
-                                   <h4>UI Designer</h4>
+                                   <h3>Fandy</h3>
+                                   <h4>CEO</h4>
                                    <ul class="social-icon">
                                         <li><a href="#" class="fa fa-facebook"></a></li>
                                         <li><a href="#" class="fa fa-instagram"></a></li>
@@ -132,7 +132,7 @@ http://www.templatemo.com/tm-492-app-starter
                     <div class="about-thumb">
                          <img src="images/team-img2.jpg" class="img-responsive" alt="Team">
                               <div class="about-overlay">
-                                   <h3>Candy </h3>
+                                   <h3>Designer </h3>
                                    <h4>UX Specialist</h4>
                                    <ul class="social-icon">
                                         <li><a href="#" class="fa fa-pinterest"></a></li>
